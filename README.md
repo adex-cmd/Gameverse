@@ -69,3 +69,4 @@ and the layout on seven screen sizes.
 | `lib/models/` | Film, film file and download task data |
 | `lib/widgets/` | Shared UI: poster cards, carousel, download rows, buttons |
 | `lib/utils/` | Screen-size helpers and number formatting |
+# Gameverse
